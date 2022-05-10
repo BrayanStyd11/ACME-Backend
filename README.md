@@ -8,11 +8,13 @@
 </p>
 
 ## Instalación
+* Crear el archivo .env
+* Configurar la base de datos
 ## Ejecutar los comandos 
 
 * composer install
+* php artisan key:generate
 * php artisan optimize
-
 ## Ejecución de migración y seeders
 ## Ejecutar los comandos
 * php artisan migrate --seed
